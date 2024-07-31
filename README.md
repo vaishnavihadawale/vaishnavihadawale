@@ -1,21 +1,21 @@
 <h1 align="left">Hi 👋, I'm Vaishnavi Kanase</h1>
 <h3 align="left">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m a life long learner, **currently exploring more about Data Analyst!**
+ 🔭 I’m a life long learner, **currently exploring more about Data Analyst!**
 
-- 📋 My analytics toolbox contains **MySQL,Python,Power Bi & MS Excel.**
+📋 My analytics toolbox contains **MySQL,Python,Power Bi & MS Excel.**
 
-- 👯 I’m looking to collaborate on **"Data Analytics" project**
+👯 I’m looking to collaborate on **"Data Analytics" project**
 
-- 🌱 I’m currently learning **MySQL and Python**
+🌱 I’m currently learning **MySQL and Python**
 
-- 👨‍💻 Connect with me at Linkedin [https://www.linkedin.com/in/vaishnavi-kanase-492418185/](https://www.linkedin.com/in/vaishnavi-kanase-492418185/)
+👨‍💻 Connect with me at Linkedin [https://www.linkedin.com/in/vaishnavi-kanase-492418185/](https://www.linkedin.com/in/vaishnavi-kanase-492418185/)
 
-- 💬 Ask me about **Python, Dax function, SQL queries, excel.**
+💬 Ask me about **Python, Dax function, SQL queries, excel.**
 
-- 📫 Reach out me **vaishnavi.hadawale1@gmail.com**
+📫 Reach out me **vaishnavi.hadawale1@gmail.com**
 
-- ❤️ I'm always enthusiastic for [learning new things!!](learning new things!!)
+❤️ I'm always enthusiastic for [learning new things!!](learning new things!!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
