@@ -15,7 +15,7 @@
 
 📫 Reach out me **vaishnavi.hadawale1@gmail.com**
 
-❤️ I'm always enthusiastic for [learning new things!!](learning new things!!)
+❤️ I'm always enthusiastic for learning new things!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
